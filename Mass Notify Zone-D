@@ -1,0 +1,14 @@
+<html><head><title>[+] Mass Notify Zone-D Bomber Cyber Army[+]</title><meta name="viewport" content="width=device-width, initial-scale=1" /> </head><script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@latest/pace-theme-default.min.css"><body bgcolor="#1e1e1e" text="white" style="max-width: 100%"><style> @import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+textarea {max-width: 90%;width: 90%;height: 150px;resize: none;outline: none;overflow: auto;background: transparent;color: #ffffff;}
+textarea#note { width:100%; resize: none; display:block; max-width:100%; border: none; outline: none;}
+button { background: transparent; font-family: Staatliches; color: #ffffff; border-color: #ffffff; cursor: pointer;}
+input { background: transparent; font-family: Staatliches; color: #ffffff; border-color: #ffffff; cursor: pointer; max-width: 95%;}
+font { font-family: Staatliches;}
+body::-webkit-scrollbar { width: 12px; /* width of the entire scrollbar */}
+body::-webkit-scrollbar-track { background: ##1e1e1e; /* color of the tracking area */}
+body::-webkit-scrollbar-thumb { background-color: ##1e1e1e; /* color of the scroll thumb */ border: 3px solid gray; /* creates padding around scroll thumb */}
+.area { font-family: Courier;}
+nemu { color: green;}
+kgk { color: red;}
+error { color: yellow;}</style><body><center><font face=courier new size=5>Mass Notify Zone-D Bomber Cyber Army<br><font size="3">Mirror di Zone-D.org secara sekaligus</font><font size="3"><hr><form method="post"> <input type="text" name="attacker" size="30" placeholder="Nick You" style="text-align: center;" class="area"><br><br><textarea name="url" required="true" placeholder="https://bombercyberarmy.my.id/hacked.html"></textarea><br><br><input type="submit" name="go" value="GasBro"></form></font><center><hr><font size=3>Bomber Cyber Army - 2021</body></html>
